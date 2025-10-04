@@ -19,9 +19,9 @@ end
 
 puts Calculadora.somar(10, 5)       # 15
 puts Calculadora.subtrair(10, 5)    # 5
-puts Calculadora::PI                 # 3.14159
+puts Calculadora::PI # 3.14159
 
-# Note que usamos self.metodo para criar métodos de módulo “estáticos”, 
+# Note que usamos self.metodo para criar métodos de módulo “estáticos”,
 # acessíveis via Modulo.metodo.
 
 ### 2. Mixins (include / extend)
@@ -32,7 +32,7 @@ puts Calculadora::PI                 # 3.14159
 
 module Falante
   def falar
-    "Olá!"
+    'Olá!'
   end
 end
 
@@ -41,14 +41,14 @@ class Pessoa
 end
 
 p1 = Pessoa.new
-puts p1.falar  # "Olá!"
+puts p1.falar # "Olá!"
 
 ## b) extend
 # Inclui métodos como métodos de classe.
 
 module Falante
   def falar
-    "Olá do módulo!"
+    'Olá do módulo!'
   end
 end
 
@@ -56,19 +56,18 @@ class Robot
   extend Falante
 end
 
-puts Robot.falar  # "Olá do módulo!"
-
+puts Robot.falar # "Olá do módulo!"
 
 ### 3. Exemplo completo com Mixins
 module Transportavel
   def andar
-    "Andando..."
+    'Andando...'
   end
 end
 
 module Voavel
   def voar
-    "Voando..."
+    'Voando...'
   end
 end
 
@@ -88,5 +87,5 @@ puts c.andar  # "Andando..."
 puts a.andar  # "Andando..."
 puts a.voar   # "Voando..."
 
-# Isso mostra como módulos permitem compartilhar comportamento entre classes diferentes 
+# Isso mostra como módulos permitem compartilhar comportamento entre classes diferentes
 # sem precisar de herança múltipla.
