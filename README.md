@@ -12,3 +12,13 @@
 - Common Methods: map, select, reject, each, reduce
 - methods
 - ternary-expression
+
+### 2. Object-Oriented Programming (OOP):
+
+- Creating Classes and Objects
+- Attributes (attr_accessor, attr_reader, attr_writer)
+- Instance and Class Methods
+- Inheritance and Polymorphism
+- Modules and Mixins
+- Operator Overloading
+- Naming and Style Conventions (follow the Ruby Style Guide)
