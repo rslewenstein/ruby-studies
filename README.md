@@ -22,3 +22,7 @@
 - Modules and Mixins
 - Operator Overloading
 - Naming and Style Conventions (follow the Ruby Style Guide)
+
+### 3. Advanced concepts
+
+- Exceptions
