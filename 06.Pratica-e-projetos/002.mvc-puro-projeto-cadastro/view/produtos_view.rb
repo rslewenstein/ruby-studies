@@ -17,4 +17,5 @@ class ProdutosView
     
     def mensagem_sucesso
         puts "\u2705 Produto cadastrado com sucesso!"
+    end    
 end    
