@@ -1,0 +1,19 @@
+current directory: /home/lewenstein/Projects/Ruby/Estudos/06.Pratica-e-projetos/003.rails-blog/blog/vendor/bundle/ruby/3.3.0/gems/erb-5.0.3/ext/erb/escape
+/home/lewenstein/.rbenv/versions/3.3.9/bin/ruby extconf.rb
+checking for rb_ext_ractor_safe() in ruby.h... yes
+creating Makefile
+
+current directory: /home/lewenstein/Projects/Ruby/Estudos/06.Pratica-e-projetos/003.rails-blog/blog/vendor/bundle/ruby/3.3.0/gems/erb-5.0.3/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251007-46294-j4ib7j sitelibdir\=./.gem.20251007-46294-j4ib7j clean
+
+current directory: /home/lewenstein/Projects/Ruby/Estudos/06.Pratica-e-projetos/003.rails-blog/blog/vendor/bundle/ruby/3.3.0/gems/erb-5.0.3/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251007-46294-j4ib7j sitelibdir\=./.gem.20251007-46294-j4ib7j
+compiling escape.c
+linking shared-object erb/escape.so
+
+current directory: /home/lewenstein/Projects/Ruby/Estudos/06.Pratica-e-projetos/003.rails-blog/blog/vendor/bundle/ruby/3.3.0/gems/erb-5.0.3/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251007-46294-j4ib7j sitelibdir\=./.gem.20251007-46294-j4ib7j install
+/usr/bin/install -c -m 0755 escape.so ./.gem.20251007-46294-j4ib7j/erb
+
+current directory: /home/lewenstein/Projects/Ruby/Estudos/06.Pratica-e-projetos/003.rails-blog/blog/vendor/bundle/ruby/3.3.0/gems/erb-5.0.3/ext/erb/escape
+make DESTDIR\= sitearchdir\=./.gem.20251007-46294-j4ib7j sitelibdir\=./.gem.20251007-46294-j4ib7j clean

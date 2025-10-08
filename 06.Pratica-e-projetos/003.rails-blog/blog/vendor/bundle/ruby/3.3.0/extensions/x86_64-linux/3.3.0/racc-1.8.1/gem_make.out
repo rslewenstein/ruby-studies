@@ -1,0 +1,18 @@
+current directory: /home/lewenstein/Projects/Ruby/Estudos/06.Pratica-e-projetos/003.rails-blog/blog/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/home/lewenstein/.rbenv/versions/3.3.9/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/lewenstein/Projects/Ruby/Estudos/06.Pratica-e-projetos/003.rails-blog/blog/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251007-46294-id8a3x sitelibdir\=./.gem.20251007-46294-id8a3x clean
+
+current directory: /home/lewenstein/Projects/Ruby/Estudos/06.Pratica-e-projetos/003.rails-blog/blog/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251007-46294-id8a3x sitelibdir\=./.gem.20251007-46294-id8a3x
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/lewenstein/Projects/Ruby/Estudos/06.Pratica-e-projetos/003.rails-blog/blog/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251007-46294-id8a3x sitelibdir\=./.gem.20251007-46294-id8a3x install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20251007-46294-id8a3x/racc
+
+current directory: /home/lewenstein/Projects/Ruby/Estudos/06.Pratica-e-projetos/003.rails-blog/blog/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251007-46294-id8a3x sitelibdir\=./.gem.20251007-46294-id8a3x clean

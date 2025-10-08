@@ -1,0 +1,24 @@
+current directory: /home/lewenstein/Projects/Ruby/Estudos/06.Pratica-e-projetos/003.rails-blog/blog/vendor/bundle/ruby/3.3.0/gems/date-3.4.1/ext/date
+/home/lewenstein/.rbenv/versions/3.3.9/bin/ruby extconf.rb
+checking for rb_category_warn()... yes
+checking for timezone in time.h with  -Werror... yes
+checking for altzone in time.h with  -Werror... no
+creating Makefile
+
+current directory: /home/lewenstein/Projects/Ruby/Estudos/06.Pratica-e-projetos/003.rails-blog/blog/vendor/bundle/ruby/3.3.0/gems/date-3.4.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20251007-46294-ju6xjf sitelibdir\=./.gem.20251007-46294-ju6xjf clean
+
+current directory: /home/lewenstein/Projects/Ruby/Estudos/06.Pratica-e-projetos/003.rails-blog/blog/vendor/bundle/ruby/3.3.0/gems/date-3.4.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20251007-46294-ju6xjf sitelibdir\=./.gem.20251007-46294-ju6xjf
+compiling date_core.c
+compiling date_parse.c
+compiling date_strftime.c
+compiling date_strptime.c
+linking shared-object date_core.so
+
+current directory: /home/lewenstein/Projects/Ruby/Estudos/06.Pratica-e-projetos/003.rails-blog/blog/vendor/bundle/ruby/3.3.0/gems/date-3.4.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20251007-46294-ju6xjf sitelibdir\=./.gem.20251007-46294-ju6xjf install
+/usr/bin/install -c -m 0755 date_core.so ./.gem.20251007-46294-ju6xjf
+
+current directory: /home/lewenstein/Projects/Ruby/Estudos/06.Pratica-e-projetos/003.rails-blog/blog/vendor/bundle/ruby/3.3.0/gems/date-3.4.1/ext/date
+make DESTDIR\= sitearchdir\=./.gem.20251007-46294-ju6xjf sitelibdir\=./.gem.20251007-46294-ju6xjf clean

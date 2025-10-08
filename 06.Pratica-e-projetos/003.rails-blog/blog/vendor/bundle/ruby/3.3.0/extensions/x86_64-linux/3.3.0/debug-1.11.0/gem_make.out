@@ -1,0 +1,19 @@
+current directory: /home/lewenstein/Projects/Ruby/Estudos/06.Pratica-e-projetos/003.rails-blog/blog/vendor/bundle/ruby/3.3.0/gems/debug-1.11.0/ext/debug
+/home/lewenstein/.rbenv/versions/3.3.9/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/lewenstein/Projects/Ruby/Estudos/06.Pratica-e-projetos/003.rails-blog/blog/vendor/bundle/ruby/3.3.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20251007-46294-r3npmf sitelibdir\=./.gem.20251007-46294-r3npmf clean
+
+current directory: /home/lewenstein/Projects/Ruby/Estudos/06.Pratica-e-projetos/003.rails-blog/blog/vendor/bundle/ruby/3.3.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20251007-46294-r3npmf sitelibdir\=./.gem.20251007-46294-r3npmf
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/lewenstein/Projects/Ruby/Estudos/06.Pratica-e-projetos/003.rails-blog/blog/vendor/bundle/ruby/3.3.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20251007-46294-r3npmf sitelibdir\=./.gem.20251007-46294-r3npmf install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20251007-46294-r3npmf/debug
+
+current directory: /home/lewenstein/Projects/Ruby/Estudos/06.Pratica-e-projetos/003.rails-blog/blog/vendor/bundle/ruby/3.3.0/gems/debug-1.11.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20251007-46294-r3npmf sitelibdir\=./.gem.20251007-46294-r3npmf clean

@@ -1,5 +1,7 @@
 # Studies about Ruby
 
+Repository used to study about Ruby.
+
 ### Basic:
 
 - Primitive Types (String, Integer, Float, Boolean, Symbol)
